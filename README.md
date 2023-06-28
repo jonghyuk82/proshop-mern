@@ -2,6 +2,7 @@
 
 - npm i react-router-bootstrap
 - npm i axios
+- npm i @reduxjs/toolkit react-redux
 
 # Backend
 
