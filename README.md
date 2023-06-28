@@ -1,16 +1,16 @@
-## Installed packages
+# Installed packages
 
 - npm i react-router-bootstrap
 - npm i axios
 - npm i @reduxjs/toolkit react-redux
 
-# Backend
+## Backend
 
 - npm init
 - npm i -D nodemon concurrently
 - npm i -D dotenv
 - npm i bcryptjs
 
-# Optional
+## Optional
 
 - npm i colors
